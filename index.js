@@ -1,6 +1,6 @@
 // Write your solution in this file!
 customerName = "bob";
-const leastFavouriteCustomer = "anjie";
+const leastFavouriteCustomer = "luffy";
 bestCustomer;
 
 
@@ -20,5 +20,5 @@ function overwriteBestCustomer(){
 
 
 function changeLeastFavoriteCustomer(){
-  leastFavouriteCustomer = "anjie";
+  leastFavouriteCustomer = "bellamy";
 }
